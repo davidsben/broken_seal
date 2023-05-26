@@ -8,7 +8,7 @@ from broken_seal.users.managers import UserManager
 
 class User(AbstractUser):
     """
-    Default custom user model for The Broken Seal.
+    Default custom user model for Broken Seal.
     If adding fields that need to be filled at user signup,
     check forms.SignupForm and forms.SocialSignupForms accordingly.
     """

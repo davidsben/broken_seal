@@ -26,7 +26,7 @@ django.setup()
 
 # -- Project information -----------------------------------------------------
 
-project = "The Broken Seal"
+project = "Broken Seal"
 copyright = """2023, David Brown"""
 author = "David Brown"
 
